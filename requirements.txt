@@ -1,0 +1,17 @@
+# Code in browser
+jupyter
+
+# Creating a cli application
+click
+
+# Creating a webcrawler
+requests
+bs4
+
+uptime
+
+# Build documentation
+sphinx
+sphinx-needs
+sphinx-rtd-theme
+recommonmark
